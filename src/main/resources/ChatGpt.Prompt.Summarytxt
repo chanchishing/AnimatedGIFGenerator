@@ -19,11 +19,11 @@ Chatgpt: To use the given GifSequenceWriter to generate an animated GIF with the
 
 The initial code by Chatgpt basically works.
 
-Summary of subsequent chat (full chat log is in ChatGpt.ChatLog.pdf, TLDR;) are on
+Summary of subsequent chat are on the below features and it is all achieved
 a) Fixing syntax error and run time error
 b) How to smooth out rough font edges (anti-aliasing)
 c) Change code to read frame from a file specified by user
 d) Change code to set output file same file name as input file
 e) Change code to allow user to specify delay between frames
 
-
+Full chat log is in ChatGpt.ChatLog.pdf

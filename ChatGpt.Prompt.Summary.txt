@@ -28,7 +28,8 @@ e) Change code to allow user to specify delay between frames
 
 Code modification made by me (not ChatGpt) are as below:
 a) adjust the bottom margin, to center text in GIF
-b) Change GifSequenceWriter class to not to add "Netscape Applicaiton extension" into GIF, if looping of animation is not required
+b) adjust width of GIF
+c) Change GifSequenceWriter class to not to add "Netscape Applicaiton extension" into GIF, if looping of animation is not required
 
 Full chat log is in ChatGpt.ChatLog.pdf
 
